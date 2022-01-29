@@ -1,0 +1,48 @@
+.payment {
+  width: 100%;
+  height: 100vh;
+}
+.payment__container {
+  max-width: 1024px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+}
+.payment__header {
+  text-align: center;
+  font-weight: 500;
+}
+.payment__section {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  /* align-items: flex-start; */
+  padding: 20px;
+  margin-top: 5px;
+}
+.payment__info {
+  margin-left: 0px;
+  width: 100%;
+}
+.payment__info h2 {
+  font-weight: 500;
+}
+.payment__title {
+  width: 200px;
+  font-size: 24px;
+}
+
+.payment__section h2 {
+  margin: 0;
+  font-size: 14px;
+}
+.payment__itemtitle {
+  width: 200px;
+}
+.payment__items {
+  width: 100%;
+}
+.payment__details {
+  width: 100%;
+  /* background-color: turquoise; */
+}

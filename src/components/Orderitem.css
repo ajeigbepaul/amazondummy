@@ -1,0 +1,17 @@
+.orderitem {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 20px;
+}
+.orderitem__id {
+  position: absolute;
+  top: 0;
+  right: 20px;
+}
+.orderitem__total {
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+}
